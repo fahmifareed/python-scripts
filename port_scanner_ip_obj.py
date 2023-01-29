@@ -26,9 +26,7 @@ print(r"""_________
   /____/|__|_|  (____  /__|_|  /
               \/     \/      \/ """)
 print("\n****************************************************************")
-print("\n* Copyright of David Bombal, 2021                              *")
-print("\n* https://www.davidbombal.com                                  *")
-print("\n* https://www.youtube.com/davidbombal                          *")
+print("\n* Copyright of Fahmi Fareed, 2022                              *")
 print("\n****************************************************************")
 
 open_ports = []
